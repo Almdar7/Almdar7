@@ -3,6 +3,36 @@
 
 - 🔭 Actualmente trabajo en [GOODAPPS](https://goodapps.com.ar/)
 
+HERRAMIENTAS QUE MANEJO:
+
+#SQL SERVER
+#VISUAL STUDIO
+#VISUAL CODE
+#FILEZILLA
+
+TECONOLOGIA QUE MANEJO:
+
+#SQL SERVER
+  -Amplia experiencia en la normalización de bases de datos.
+  -Competencia intermedia en el lenguaje SQL, con capacidad para diseñar consultas complejas y optimizadas.
+  -Profundo conocimiento en la gestión de bases de datos SQL Server, incluyendo la creación de tablas, vistas y 
+  procedimientos almacenados.
+  
+#API RESTful
+  -Desarrollor de APIs RESTful utilizando Entity Framework y ADO.NET, dentro del entorno .NET.
+  -Habilidad en la documentación de APIs utilizando Swagger para garantizar una comprensión y adopción eficaz por parte de     otros desarrolladores.
+  -Experiencia en el manejo de versionado de APIs para asegurar la compatibilidad y la evolución controlada de los         
+   servicios.
+  -Amplio conocimiento en el uso de middlewares para el manejo de solicitudes HTTP, garantizando un flujo de datos seguro y 
+   eficiente.
+  
+#BLAZOR
+  -Competencia avanzada en Blazor, incluyendo la implementación de autenticación mediante el Auth Provider.
+  -Uso experto de las bibliotecas Radzen y MudBlazor para mejorar la estética y la usabilidad de las aplicaciones.
+  -Experiencia en la creación de aplicaciones de back-office con Blazor, proporcionando soluciones eficaces y amigables     
+   para la gestión de datos y tareas administrativas.
+
+
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dario-martin-moresi-rivalta-5b3690273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dario-martin-moresi-rivalta-5b3690273/" height="30" width="40" /></a>
