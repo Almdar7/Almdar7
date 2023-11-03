@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajo en [GOODAPPS](https://goodapps.com.ar/)
 
-<h3 align="left">CoConectate conmigo:</h3>
+<h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dario-martin-moresi-rivalta-5b3690273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dario-martin-moresi-rivalta-5b3690273/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009457063321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009457063321" height="30" width="40" /></a>
